@@ -1,4 +1,4 @@
-📅 Meeting Coordinator
+📅 Meeting Coordinator https://meeting-coordinator-fmujyqxdzzptwv6ptatv4b.streamlit.app/
 
 A meeting scheduling assistant that automates the process of creating professional meeting events and integrating them with Google Calendar. The system uses Google's Gemini AI model to generate refined meeting titles and automatically schedules meetings with attendees.
 AI Meeting Coordinator is designed to simplify meeting scheduling by combining Generative AI with Google Calendar Automation.
